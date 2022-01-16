@@ -1,0 +1,10 @@
+.login {
+  border: 1px solid lightgray;
+  box-shadow: 2px 4px 3px lightgray;
+  padding: 10px;
+  margin: 100px auto;
+  background-color: aliceblue;
+}
+.login-form {
+  border-right: 1px solid lightgray;
+}

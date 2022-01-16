@@ -1,0 +1,22 @@
+.tree1 {
+  margin-top: -40px;
+  background-image: url("https://i.ibb.co/2nJQZsM/pattern1.png");
+  background-position: 0px 160%;
+  background-repeat: no-repeat;
+}
+.tree1 img {
+  margin-top: 60px;
+  margin-left: 100px;
+  height: 400px;
+}
+
+.tree1-info {
+  margin-top: -100px;
+  margin-right: -70px;
+  margin-left: 70px;
+}
+.tree1-section {
+  margin-bottom: 200px;
+  margin-top: 200px;
+  margin-left: 200px;
+}

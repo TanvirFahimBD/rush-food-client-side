@@ -1,0 +1,11 @@
+.currentService {
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 4px 3px 2px lightgray;
+  margin: 0 auto;
+  padding: 10px;
+  width: 410px;
+}
+.currentService img {
+  width: 400px;
+}

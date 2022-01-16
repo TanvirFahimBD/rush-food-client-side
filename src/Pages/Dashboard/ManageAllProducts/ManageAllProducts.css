@@ -1,0 +1,42 @@
+.btn-delete {
+  background-image: linear-gradient(
+    to right,
+    #d31027 0%,
+    #ea384d 51%,
+    #d31027 100%
+  );
+}
+.btn-delete {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  font-size: 10px;
+}
+
+.btn-delete:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 1200px) {
+  .btn-delete {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .btn-delete {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .btn-delete {
+    width: 100%;
+  }
+}
